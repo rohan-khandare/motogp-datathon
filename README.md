@@ -51,7 +51,7 @@ Given rider, bike, and track characteristics, the goal is to predict **Lap_Time_
 | ✅ Final RMSE     | **10.16** (initial) → **1.80** (pruned) |
 | 📊 SHAP-Aware RMSE | **~1.80** after tuning |
 
-We started from an RMSE of ~10.16 and through **model tuning and SHAP-based feature pruning**, we reduced it to **~5.80**, showing the impact of intelligent XAI-driven refinement.
+We started from an RMSE of ~10.16 and through **model tuning and SHAP-based feature pruning**, we reduced it to **~1.80**, showing the impact of intelligent XAI-driven refinement.
 
 ---
 
