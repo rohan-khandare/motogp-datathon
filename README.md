@@ -51,7 +51,7 @@ Given rider, bike, and track characteristics, the goal is to predict **Lap_Time_
 | ✅ Final RMSE     | **10.16** (initial) → **1.80** (pruned) |
 | 📊 SHAP-Aware RMSE | **~1.80** after tuning |
 
-We started from an RMSE of ~10.16 and through **model tuning and SHAP-based feature pruning**, we reduced it to **~1.80**, showing the impact of intelligent XAI-driven refinement.
+I started from an RMSE of ~10.16 and through **model tuning and SHAP-based feature pruning**, we reduced it to **~1.80**, showing the impact of intelligent XAI-driven refinement.
 
 ---
 
@@ -70,11 +70,9 @@ We started from an RMSE of ~10.16 and through **model tuning and SHAP-based feat
 ## 💬 Reflections
 
 Despite limited time and a huge dataset:
-- We prioritized a **balance between performance and explainability**
+- prioritized a **balance between performance and explainability**
 - Applied **model interpretability (SHAP)** to guide pruning, rather than blind hyperparameter tuning
-
-We couldn’t submit before the deadline but achieved significant progress and learning.
-
+  
 ---
 
 ## 🤝 Author
